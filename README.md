@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/uc?id=1BlaNDnhlR8bh47jtEIxTJSkGHoz5nCX3" alt="Banner Image" width="100%">  
 <h1 align="center">Hi 👋, I'm Adnan Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
