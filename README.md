@@ -1,10 +1,6 @@
-<div style="position: relative; text-align: center;">
-  <img src="https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=900&t=st=1703235329~exp=1703235929~hmac=4f0bcb1f2712a6576a340e9cc584f8535285998dfc37cc6f2da017cfc3d52071" alt="Banner Image" style="width: 100%; height: 50%; object-fit: cover;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
-    <h1>Hi 👋, I'm Adnan Ibrahim</h1>
-    <h3>A passionate frontend developer from India</h3>
-  </div>
-</div>
+ 
+<h1 align="center">Hi 👋, I'm Adnan Ibrahim</h1>
+<h3 align="center">A passionate frontend developer from India</h3> add styling to image and text image should be like a banner 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanibrahi0102&label=Profile%20views&color=0e75b6&style=flat" alt="adnanibrahi0102" /> </p>
 
