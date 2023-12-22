@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=900&t=st=1703235329~exp=1703235929~hmac=4f0bcb1f2712a6576a340e9cc584f8535285998dfc37cc6f2da017cfc3d52071" alt="Banner Image" width="100%">  
+<img src="https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=900&t=st=1703235329~exp=1703235929~hmac=4f0bcb1f2712a6576a340e9cc584f8535285998dfc37cc6f2da017cfc3d52071" alt="Banner Image" width="100%" height="50%">  
 <h1 align="center">Hi 👋, I'm Adnan Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
