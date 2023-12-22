@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Adnan Ibrahim</h1>
-<h3 align="center">A passionate frontend developer from India</h3> add styling to image and text image should be like a banner 
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanibrahi0102&label=Profile%20views&color=0e75b6&style=flat" alt="adnanibrahi0102" /> </p>
 
