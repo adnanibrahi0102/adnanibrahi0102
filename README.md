@@ -4,9 +4,8 @@
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-panchal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vivekpanchaal" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
+<p align="left"> <a href="https://x.com/Adnanibrahi0102" target="blank"><img src="https://img.shields.io/twitter/follow/Adnanibrahi0102?logo=twitter&style=for-the-badge" alt="adnanibrahim" /></a> </p>
 
 - 🔭 I’m currently learning **Advance Backend**
 
@@ -31,7 +30,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,html,css,tailwind,scss,cpp,kotlin,firebase,git,github"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github"/>
   </a>
 </p>
 </div>
